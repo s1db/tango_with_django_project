@@ -1,1 +1,8 @@
-'db.sqlite3'
+.DS_Store
+__pycache__/
+db.sqlite3
+.pyc
+*.key
+thumbs.db
+migrations/
+Thumbs.db
